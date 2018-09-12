@@ -47,12 +47,20 @@ img:hover {
   background-color: #dd4444;
 }
 .column {
-  column-count: 2;
-  column-width: 50%;
+  display: horizontal;
+  width:50%;
+  }
+.small {
   
 }
-.small {
-   
+
+.medium {
+  
+}
+  
+  .large{
+    
+  } 
 
   
 }
